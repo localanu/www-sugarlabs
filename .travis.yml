@@ -1,0 +1,9 @@
+language: ruby 
+
+install: 
+
+- bundle install 
+
+script: 
+
+- jekyll build
